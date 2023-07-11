@@ -1,5 +1,8 @@
 # Sistema de Gerenciamento de Tarefas (API)
-Esse repositório contém uma API solicitada para prática e avaliação da matéria de PHP e API's.
+Esse repositório contém uma API para a avaliação da matéria de PHP e API's
 
-https://github.com/ECiconini/Trabalho-API/assets/109551843/bbfa03de-f9c6-4517-8d83-c572b6929f25
+
+
+
+https://github.com/tiagorochaturman/Trabalho-API/assets/127156486/6f13ca2f-6347-4dac-a738-79721b9b899c
 
